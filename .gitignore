@@ -1,5 +1,13 @@
-# Ignore everything in this directory
-*
 # Except this file
 !.gitignore
+
+# Ignore list
+.DS_Store
+.idea
+.vs
+.buildpath
+.project
+.settings
+.settings/*
+.vs/
 
