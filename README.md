@@ -1,2 +1,3 @@
-# learning
+# Learning
+Self-learning courses
 
