@@ -1,3 +1,3 @@
 # 2. Link to Completed Code
 
-email - ste.grider@gmail.com
+https://github.com/StephenGrider/GoCasts
