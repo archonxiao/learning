@@ -11,3 +11,21 @@ A set of markdown notes for each section of the course - [Go: The Complete Devel
 4. Environment Setup
 5. VSCode Installation
 6. Go Support in VSCode
+
+### Section 2
+7. Boring Ol' Hello World
+8. Five Important Questions
+9. Go Packages
+10. Import Statements
+11. File Organization
+12. How to Access Course Diagrams
+
+### Section 3
+13. Project Overview
+14. New Project Folder
+15. Variable Declarations
+16. Functions and Return Types
+17. Slices and For Loops
+18. OO Approach vs Go Approach
+19. Custom Type Declarations
+20. Receiver Functions
